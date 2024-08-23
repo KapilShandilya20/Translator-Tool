@@ -1,6 +1,6 @@
 To make this run you need to run certian commands in your command line First
 
-pip install googletrans
+pip install googletrans==4.0.0-rc1
 pip install SpeechRecognition
 pip install pyaudio
 pip install SetupTools
